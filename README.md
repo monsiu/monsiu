@@ -44,15 +44,3 @@ I build production web apps, Android apps with Flutter, and onchain smart contra
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=monsiu&theme=react-dark&hide_border=true&area=true" alt="commit history graph"/>
 </p>
-
-## 🐍 Contribution snake
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/monsiu/monsiu/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/monsiu/monsiu/output/github-snake.svg" />
-    <img alt="contribution snake animation" src="https://raw.githubusercontent.com/monsiu/monsiu/output/github-snake.svg" />
-</picture>
-
-<!--
-This repo is special: because it is named "monsiu" (same as your username),
-this README.md renders on your GitHub profile page.
--->
