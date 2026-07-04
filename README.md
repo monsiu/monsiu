@@ -10,7 +10,7 @@
 I build production web apps, Android apps with Flutter, and onchain smart contracts.
 
 ## Here's a bit about me:
-- 🔭 I'm working on [**Custom RR**](https://github.com/monsiu/Custom-RR), a cross-platform hub for Android custom ROMs, recoveries, and root (46+ stars, Android/Windows/Linux builds).
+- 🔭 I'm building [**ClauseShift**](https://clauseshift.com), an AI contract reviewer that cites the exact clause behind every risk it flags, live on the web and the Amazon Appstore. Also maintaining [**Custom RR**](https://github.com/monsiu/Custom-RR), a cross-platform hub for Android custom ROMs, recoveries, and root.
 - 💬 Ask me about: React, Next.js, TypeScript, Flutter/Dart, Solidity smart contracts, and AI integration.
 - 🌱 I'm currently building onchain micropayment systems and agentic AI workflows.
 - 🏆 Hackathon contributor across AMD, Arc Blockchain, TechEx, and Milan AI Week.
@@ -18,9 +18,10 @@ I build production web apps, Android apps with Flutter, and onchain smart contra
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/martinnzau) · [X/Twitter](https://x.com/MonsiuTech) · [Website](https://monsiu.github.io/) · contactmonsiu@gmail.com
 
 ## 🚀 Featured projects
+- ⚖️ [**ClauseShift**](https://clauseshift.com) - AI contract review that shows its receipts: every flagged risk quotes the exact source clause, with two-model cross-checks, risk scoring, and automatic key-date extraction. One product across web, Android, iOS, and desktop, with a free tier plus Pro. Flutter, Next.js, Supabase, OpenAI.
 - 📱 [**Custom RR**](https://github.com/monsiu/Custom-RR) - A single home for popular Android custom ROMs, recoveries, and root solutions. 18 ROMs, 4 recoveries, 700+ devices, nightly freshness signals. Flutter, GPL-3.0.
 - 💸 [**NanoPay**](https://github.com/monsiu) - Per-request AI API where every query costs $0.001 USDC, settled onchain on Arc blockchain. 57+ live onchain transactions. Solidity, Node.js.
-- 📄 [**GeminEYE V2**](https://github.com/monsiu/Gemineye-V2) - AI contract risk analyzer with voice intake, parallel model checks, email escalations, and prompt-injection guardrails. Next.js 16, React 19.
+- 📄 [**GeminEYE V2**](https://github.com/monsiu/Gemineye-V2) - The open-source prototype that grew into ClauseShift: AI contract risk analysis with voice intake, parallel model checks, and prompt-injection guardrails. Next.js, React.
 - 🛡️ [**Aegis, SRE Guardian**](https://github.com/monsiu/Autonomous-SRE-Self-Healing-Cloud-Guardian) - Autonomous incident-response system with a three-agent AI pipeline and auto-generated post-mortems. Built for AMD Developer Hackathon 2025. Python, FastAPI, React.
 
 ## 🛠️ Tech I work with
@@ -30,6 +31,7 @@ I build production web apps, Android apps with Flutter, and onchain smart contra
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
