@@ -21,8 +21,7 @@ I build production web apps, Android apps with Flutter, and onchain smart contra
 - ⚖️ [**ClauseShift**](https://clauseshift.com) - AI contract review that shows its receipts: every flagged risk quotes the exact source clause, with two-model cross-checks, risk scoring, and automatic key-date extraction. One product across web, Android, iOS, and desktop, with a free tier plus Pro. Flutter, Next.js, Supabase, OpenAI.
 - 📱 [**Custom RR**](https://github.com/monsiu/Custom-RR) - A single home for popular Android custom ROMs, recoveries, and root solutions. 18 ROMs, 4 recoveries, 700+ devices, nightly freshness signals. Flutter, GPL-3.0.
 - 💸 [**NanoPay**](https://github.com/monsiu) - Per-request AI API where every query costs $0.001 USDC, settled onchain on Arc blockchain. 57+ live onchain transactions. Solidity, Node.js.
-- 📄 [**GeminEYE V2**](https://github.com/monsiu/Gemineye-V2) - The open-source prototype that grew into ClauseShift: AI contract risk analysis with voice intake, parallel model checks, and prompt-injection guardrails. Next.js, React.
-- 🛡️ [**Aegis, SRE Guardian**](https://github.com/monsiu/Autonomous-SRE-Self-Healing-Cloud-Guardian) - Autonomous incident-response system with a three-agent AI pipeline and auto-generated post-mortems. Built for AMD Developer Hackathon 2025. Python, FastAPI, React.
+- ️ [**Aegis, SRE Guardian**](https://github.com/monsiu/Autonomous-SRE-Self-Healing-Cloud-Guardian) - Autonomous incident-response system with a three-agent AI pipeline and auto-generated post-mortems. Built for AMD Developer Hackathon 2025. Python, FastAPI, React.
 
 ## 🛠️ Tech I work with
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
