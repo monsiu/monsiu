@@ -1,14 +1,9 @@
 # Hi there, I'm Martin Nzau (Monsiu) 👋
 
-<!--
-  Profile-details banner is generated statically by .github/workflows/profile-summary-cards.yml
-  (no more Vercel rate limits). It needs a token with `read:user` scope because the card queries
-  your email field. Once the PROFILE_CARDS_TOKEN secret has read:user, re-run the workflow and
-  restore the banner below:
-  <p align="center">
+<!-- Profile card is generated statically by .github/workflows/profile-summary-cards.yml (no Vercel rate limits). -->
+<p align="center">
     <a href="https://github.com/monsiu"><img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="monsiu"/></a>
-  </p>
--->
+</p>
 
 🌍 Full-Stack, Mobile & Smart Contract developer based in **Nairobi, Kenya**, available worldwide.
 I build production web apps, Android apps with Flutter, and onchain smart contracts.
@@ -47,14 +42,9 @@ I build production web apps, Android apps with Flutter, and onchain smart contra
     <img src="./profile-summary-card-output/radical/2-most-commit-language.svg" alt="most used languages"/>
 </p>
 <p align="center">
+    <img src="./profile-summary-card-output/radical/3-stats.svg" alt="stats"/>
     <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="productive time"/>
 </p>
-<!--
-  The aggregate stats card (total stars / commits / PRs / issues) also generates statically, but
-  it needs a token with `read:user` scope (it queries your email field). Once the
-  PROFILE_CARDS_TOKEN secret has read:user, re-run the workflow and add it back here:
-  <img src="./profile-summary-card-output/radical/3-stats.svg" alt="stats"/>
--->
 
 ## 📈 Commit history
 <p align="center">
