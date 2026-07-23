@@ -22,7 +22,7 @@ jobs:
           # query the user's email field, which the default GITHUB_TOKEN cannot read). If this
           # secret is ever removed, fall back to: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           # (the other three cards still generate, but those two will be skipped).
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
