@@ -17,7 +17,10 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # A personal token is required: the default GITHUB_TOKEN is a GitHub App
+          # installation token and cannot read the user-level GraphQL data that the
+          # profile-details and stats cards need ("Resource not accessible by integration").
+          GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
