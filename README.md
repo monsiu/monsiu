@@ -47,6 +47,8 @@ I build production web apps, Android apps with Flutter, and onchain smart contra
 </p>
 
 ## 📈 Commit history
+<!-- Served by my own Vercel instance (repo: monsiu/github-readme-activity-graph), so it is not
+     subject to the shared public instance's GitHub API rate limits. -->
 <p align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=monsiu&theme=react-dark&hide_border=true&area=true" alt="commit history graph"/>
+    <img src="https://github-readme-activity-graph-blue.vercel.app/graph?username=monsiu&theme=react-dark&hide_border=true&area=true" alt="commit history graph"/>
 </p>
