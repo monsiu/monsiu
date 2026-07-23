@@ -17,11 +17,11 @@ jobs:
       - uses: actions/checkout@v4
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          # The default GITHUB_TOKEN generates the repos-per-language, most-commit-language
-          # and productive-time cards fine. To ALSO generate the profile-details banner and
-          # the aggregate stats card, create a PAT with `read:user` scope (those cards query
-          # your email field), add it as a repo secret named PROFILE_CARDS_TOKEN, and change
-          # the line below to: GITHUB_TOKEN: ${{ secrets.PROFILE_CARDS_TOKEN }}
+          # PROFILE_CARDS_TOKEN is a token with `read:user` scope. That scope is required so
+          # the profile-details banner and the aggregate stats card can be generated (both
+          # query the user's email field, which the default GITHUB_TOKEN cannot read). If this
+          # secret is ever removed, fall back to: GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # (the other three cards still generate, but those two will be skipped).
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           USERNAME: ${{ github.repository_owner }}
