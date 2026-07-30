@@ -17,6 +17,13 @@
   <a href="https://appgallery.huawei.com/app/C118197013"><img src="https://img.shields.io/badge/Huawei%20AppGallery-7c2030?style=flat&logo=huawei&logoColor=white" alt="Huawei AppGallery"/></a>
 
 - 📱 Maintaining [**Custom RR**](https://github.com/monsiu/Custom-RR) 1.3.x across Google Play, Amazon Appstore, F-Droid and Zapstore, with store listings localized into 11 languages.
+
+  <a href="https://play.google.com/store/apps/details?id=io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Google%20Play-1976D2?style=flat&logo=googleplay&logoColor=white" alt="Google Play"/></a>
+  <a href="https://www.amazon.com/gp/mas/dl/android?p=io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Amazon%20Appstore-1976D2?style=flat&logo=amazon&logoColor=white" alt="Amazon Appstore"/></a>
+  <a href="https://f-droid.org/packages/io.github.monsiu.custom_rr/"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=fdroid&logoColor=white" alt="F-Droid"/></a>
+  <a href="https://zapstore.dev/apps/io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Zapstore-1976D2?style=flat&logo=nostr&logoColor=white" alt="Zapstore"/></a>
+  <a href="https://github.com/monsiu/Custom-RR/releases/latest"><img src="https://img.shields.io/badge/GitHub%20Releases-1976D2?style=flat&logo=github&logoColor=white" alt="GitHub Releases"/></a>
+
 - 🌱 Exploring onchain micropayment systems and agentic AI workflows.
 
 ## Here's a bit about me:
