@@ -1,14 +1,14 @@
-# Hi there, I'm Martin Nzau (Monsiu) 👋
+# Hi there, I'm Martin Nzau (Monsiu)
 
-**I ship complete products, not just code** — full-stack, mobile & smart-contract developer based in **Nairobi, Kenya**, available worldwide.
+**I ship complete products, not just code.** Full-stack, mobile & smart-contract developer based in **Nairobi, Kenya**, available worldwide.
 
 <!-- Profile card is generated statically by .github/workflows/profile-summary-cards.yml (no Vercel rate limits). -->
 <p align="center">
     <a href="https://github.com/monsiu"><img src="./profile-summary-card-output/radical/0-profile-details.svg" alt="monsiu"/></a>
 </p>
 
-## 🚢 Right now
-- ⚖️ [**ClauseShift**](https://clauseshift.com) is built, shipped, and **live on five stores** — an AI contract reviewer that cites the exact clause behind every risk it flags, built end to end as a solo founder: Next.js backend, Flutter apps, self-serve billing, multi-store release automation, and a marketing site in seven languages.
+## Right now
+- [**ClauseShift**](https://clauseshift.com) is built, shipped, and **live on five stores**: an AI contract reviewer that cites the exact clause behind every risk it flags. Built end to end as a solo founder: Next.js backend, Flutter apps, self-serve billing, multi-store release automation, and a marketing site in seven languages.
 
   <a href="https://play.google.com/store/apps/details?id=com.clauseshift.app"><img src="https://img.shields.io/badge/Google%20Play-7c2030?style=flat&logo=googleplay&logoColor=white" alt="Google Play"/></a>
   <a href="https://clauseshift.com"><img src="https://img.shields.io/badge/Web%20App-7c2030?style=flat&logo=googlechrome&logoColor=white" alt="Web"/></a>
@@ -16,7 +16,7 @@
   <a href="https://apps.microsoft.com/detail/9n74ckgj70ks"><img src="https://img.shields.io/badge/Microsoft%20Store-7c2030?style=flat&logo=windows&logoColor=white" alt="Microsoft Store"/></a>
   <a href="https://appgallery.huawei.com/app/C118197013"><img src="https://img.shields.io/badge/Huawei%20AppGallery-7c2030?style=flat&logo=huawei&logoColor=white" alt="Huawei AppGallery"/></a>
 
-- 📱 Maintaining [**Custom RR**](https://github.com/monsiu/Custom-RR) 1.3.x across Google Play, Amazon Appstore, F-Droid and Zapstore, with store listings localized into 11 languages.
+- Maintaining [**Custom RR**](https://github.com/monsiu/Custom-RR) 1.3.x across Google Play, Amazon Appstore, F-Droid and Zapstore, with store listings localized into 11 languages.
 
   <a href="https://play.google.com/store/apps/details?id=io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Google%20Play-1976D2?style=flat&logo=googleplay&logoColor=white" alt="Google Play"/></a>
   <a href="https://www.amazon.com/gp/mas/dl/android?p=io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Amazon%20Appstore-1976D2?style=flat&logo=amazon&logoColor=white" alt="Amazon Appstore"/></a>
@@ -24,21 +24,21 @@
   <a href="https://zapstore.dev/apps/io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Zapstore-1976D2?style=flat&logo=nostr&logoColor=white" alt="Zapstore"/></a>
   <a href="https://github.com/monsiu/Custom-RR/releases/latest"><img src="https://img.shields.io/badge/GitHub%20Releases-1976D2?style=flat&logo=github&logoColor=white" alt="GitHub Releases"/></a>
 
-- 🌱 Exploring onchain micropayment systems and agentic AI workflows.
+- Exploring onchain micropayment systems and agentic AI workflows.
 
 ## Here's a bit about me:
-- 💬 Ask me about: React, Next.js, TypeScript, Flutter/Dart, Solidity smart contracts, and AI integration.
-- 🏆 Hackathon contributor across AMD, Arc Blockchain, TechEx, and Milan AI Week.
-- 💼 Verified [Upwork freelancer](https://www.upwork.com/freelancers/~01d848dcebdf54f162) - [hire me](https://monsiu.github.io/services/).
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/martinnzau) · [X/Twitter](https://x.com/MonsiuTech) · [Website](https://monsiu.github.io/) · contactmonsiu@gmail.com
+- Ask me about: React, Next.js, TypeScript, Flutter/Dart, Solidity smart contracts, and AI integration.
+- Hackathon contributor across AMD, Arc Blockchain, TechEx, and Milan AI Week.
+- Verified [Upwork freelancer](https://www.upwork.com/freelancers/~01d848dcebdf54f162) - [hire me](https://monsiu.github.io/services/).
+- How to reach me: [LinkedIn](https://linkedin.com/in/martinnzau) · [X/Twitter](https://x.com/MonsiuTech) · [Website](https://monsiu.github.io/) · contactmonsiu@gmail.com
 
-## 🚀 Featured projects
-- ⚖️ [**ClauseShift**](https://clauseshift.com) - AI contract review that shows its receipts: every flagged risk quotes the exact source clause, with two-model cross-checks, risk scoring, and automatic key-date extraction. One product across web, Android, iOS, and desktop, with a free tier, Pro, and pay-as-you-go credits. Live on Google Play, the web, the Amazon Appstore, the Huawei AppGallery, and the Microsoft Store. Flutter, Next.js, Supabase, OpenAI.
-- 📱 [**Custom RR**](https://github.com/monsiu/Custom-RR) - A single home for popular Android custom ROMs, recoveries, and root solutions. 18 ROMs, 5 recoveries, 500+ devices, nightly freshness signals. Flutter, GPL-3.0.
-- 💸 [**NanoPay (Agentic Economy on ARC)**](https://github.com/monsiu/Agentic-Economy-On-ARC) - Per-request AI API where every query costs $0.001 USDC, settled onchain on Arc blockchain. 57+ live onchain transactions. Solidity, Node.js.
-- 🛡️ [**Aegis, SRE Guardian**](https://github.com/monsiu/Autonomous-SRE-Self-Healing-Cloud-Guardian) - Autonomous incident-response system with a three-agent AI pipeline and auto-generated post-mortems. Built for AMD Developer Hackathon 2025. Python, FastAPI, React.
+## Featured projects
+- [**ClauseShift**](https://clauseshift.com) - AI contract review that shows its receipts: every flagged risk quotes the exact source clause, with two-model cross-checks, risk scoring, and automatic key-date extraction. One product across web, Android, iOS, and desktop, with a free tier, Pro, and pay-as-you-go credits. Live on Google Play, the web, the Amazon Appstore, the Huawei AppGallery, and the Microsoft Store. Flutter, Next.js, Supabase, OpenAI.
+- [**Custom RR**](https://github.com/monsiu/Custom-RR) - A single home for popular Android custom ROMs, recoveries, and root solutions. 18 ROMs, 5 recoveries, 500+ devices, nightly freshness signals. Flutter, GPL-3.0.
+- [**NanoPay (Agentic Economy on ARC)**](https://github.com/monsiu/Agentic-Economy-On-ARC) - Per-request AI API where every query costs $0.001 USDC, settled onchain on Arc blockchain. 57+ live onchain transactions. Solidity, Node.js.
+- [**Aegis, SRE Guardian**](https://github.com/monsiu/Autonomous-SRE-Self-Healing-Cloud-Guardian) - Autonomous incident-response system with a three-agent AI pipeline and auto-generated post-mortems. Built for AMD Developer Hackathon 2025. Python, FastAPI, React.
 
-## 🛠️ Tech I work with
+## Tech I work with
 **Web**
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
@@ -62,14 +62,14 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-## 📊 My GitHub stats
+## My GitHub stats
 <!-- Generated statically by .github/workflows/profile-summary-cards.yml, so never rate-limited. -->
 <p align="center">
     <img src="./profile-summary-card-output/radical/3-stats.svg" alt="stats"/>
     <img src="./profile-summary-card-output/radical/4-productive-time.svg" alt="productive time"/>
 </p>
 
-## 📈 Commit history
+## Commit history
 <!-- Served by my own Vercel instance (repo: monsiu/github-readme-activity-graph), so it is not
      subject to the shared public instance's GitHub API rate limits. -->
 <p align="center">
