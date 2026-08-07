@@ -23,7 +23,7 @@
   <a href="https://zapstore.dev/apps/com.pesashift.app"><img src="https://img.shields.io/badge/Zapstore-0B3D36?style=flat&logo=nostr&logoColor=white" alt="Zapstore"/></a>
   <a href="https://monsiu.github.io/pesashift-android/"><img src="https://img.shields.io/badge/Website-0B3D36?style=flat&logo=githubpages&logoColor=white" alt="Website"/></a>
 
-- Maintaining [**Custom RR**](https://github.com/monsiu/Custom-RR) 1.3.x across Google Play, Amazon Appstore, F-Droid and Zapstore, with store listings localized into 11 languages.
+- Maintaining [**Custom RR**](https://github.com/monsiu/Custom-RR), an open-source hub that gives 18 popular Android custom ROMs, 5 recoveries, and root solutions for 500+ devices a single home. Now shipping 1.3.x across Google Play, Amazon Appstore, F-Droid and Zapstore, with store listings localized into 11 languages.
 
   <a href="https://play.google.com/store/apps/details?id=io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Google%20Play-1976D2?style=flat&logo=googleplay&logoColor=white" alt="Google Play"/></a>
   <a href="https://www.amazon.com/gp/mas/dl/android?p=io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Amazon%20Appstore-1976D2?style=flat&logo=amazon&logoColor=white" alt="Amazon Appstore"/></a>
