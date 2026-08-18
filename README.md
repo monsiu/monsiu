@@ -24,8 +24,9 @@
   <a href="https://zapstore.dev/apps/com.pesashift.app"><img src="https://img.shields.io/badge/Zapstore-0B3D36?style=flat&logo=nostr&logoColor=white" alt="Zapstore"/></a>
   <a href="https://monsiu.github.io/pesashift-android/"><img src="https://img.shields.io/badge/Website-0B3D36?style=flat&logo=githubpages&logoColor=white" alt="Website"/></a>
 
-- Maintaining [**Custom RR**](https://github.com/monsiu/Custom-RR), an open-source hub that gives 18 popular Android custom ROMs, 5 recoveries, and root solutions for 500+ devices a single home. Now shipping 1.3.x across Google Play, Amazon Appstore, F-Droid and Zapstore, with store listings localized into 11 languages.
+- [**Custom RR**](https://github.com/monsiu/Custom-RR) is my **most-starred project** - **120+ GitHub stars**, **1,900+ direct downloads**, and open source since 2023. It gives 18 Android custom ROMs, 5 recoveries, and root solutions for 500+ devices a single home, shipping 1.3.x across five channels with store listings localized into 11 languages.
 
+  <a href="https://github.com/monsiu/Custom-RR/stargazers"><img src="https://img.shields.io/github/stars/monsiu/Custom-RR?style=flat&logo=github&label=Stars&color=1976D2" alt="GitHub stars"/></a>
   <a href="https://play.google.com/store/apps/details?id=io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Google%20Play-1976D2?style=flat&logo=googleplay&logoColor=white" alt="Google Play"/></a>
   <a href="https://www.amazon.com/gp/mas/dl/android?p=io.github.monsiu.custom_rr"><img src="https://img.shields.io/badge/Amazon%20Appstore-1976D2?style=flat&logo=amazon&logoColor=white" alt="Amazon Appstore"/></a>
   <a href="https://f-droid.org/packages/io.github.monsiu.custom_rr/"><img src="https://img.shields.io/badge/F--Droid-1976D2?style=flat&logo=fdroid&logoColor=white" alt="F-Droid"/></a>
@@ -43,7 +44,7 @@
 ## Featured projects
 - [**ClauseShift**](https://clauseshift.com) - AI contract review that shows its receipts: every flagged risk quotes the exact source clause, with two-model cross-checks, risk scoring, and automatic key-date extraction. One product across web, Android, iOS, and desktop, with a free tier, Pro, and pay-as-you-go credits. Live on Google Play, the web, the Amazon Appstore, the Huawei AppGallery, and the Microsoft Store. Flutter, Next.js, Supabase, OpenAI.
 - [**PesaShift**](https://monsiu.github.io/pesashift-android/) - Mobile-money statement analyser for Kenya that runs entirely on-device: parses M-PESA and Airtel Money PDF statements, walks the balance column to recover charges the statement never itemises, and breaks down fees, Fuliza borrowing, and spending patterns. No accounts, one-time Pro unlock, statement never uploaded. Live on the Amazon Appstore, the Huawei AppGallery, Zapstore, and direct APK. Flutter, with a pure-Dart parsing engine.
-- [**Custom RR**](https://github.com/monsiu/Custom-RR) - A single home for popular Android custom ROMs, recoveries, and root solutions. 18 ROMs, 5 recoveries, 500+ devices, nightly freshness signals. Flutter, GPL-3.0.
+- [**Custom RR**](https://github.com/monsiu/Custom-RR) - My most-starred project (120+ stars, 1,900+ downloads): a single home for popular Android custom ROMs, recoveries, and root solutions. 18 ROMs, 5 recoveries, 500+ devices, nightly freshness signals. Flutter, GPL-3.0.
 - [**NanoPay (Agentic Economy on ARC)**](https://github.com/monsiu/Agentic-Economy-On-ARC) - Per-request AI API where every query costs $0.001 USDC, settled onchain on Arc blockchain. 57+ live onchain transactions. Solidity, Node.js.
 - [**Aegis, SRE Guardian**](https://github.com/monsiu/Autonomous-SRE-Self-Healing-Cloud-Guardian) - Autonomous incident-response system with a three-agent AI pipeline and auto-generated post-mortems. Built for AMD Developer Hackathon 2025. Python, FastAPI, React.
 
