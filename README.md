@@ -8,8 +8,6 @@
 </p>
 
 ## Right now
-- **New role:** I'm an **AI/Automation Engineer (Consultant)** with **Invent Consulting** in Nairobi (Sep 2026 - Present), building AI and automation solutions for a banking-sector client with Python, Azure, and the Microsoft Agent Framework.
-
 - [**ClauseShift**](https://clauseshift.com) is built, shipped, and **live on five stores**: an AI contract reviewer that cites the exact clause behind every risk it flags. Built end to end as a solo founder: Next.js backend, Flutter apps, self-serve billing, multi-store release automation, and a marketing site in seven languages.
 
   <a href="https://play.google.com/store/apps/details?id=com.clauseshift.app"><img src="https://img.shields.io/badge/Google%20Play-7c2030?style=flat&logo=googleplay&logoColor=white" alt="Google Play"/></a>
